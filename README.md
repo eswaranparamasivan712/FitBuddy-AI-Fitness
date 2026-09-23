@@ -17,3 +17,4 @@ A personalized AI-powered fitness and diet plan generator built using Google Gem
 * Customized workout routines based on user inputs
 * Tailored nutrition and diet plans
 * Instant response powered by Gemini AI
+demo video :https://drive.google.com/file/d/1KHZF1slz6GZ2hICblVliPn-UqlBQyY5z/view?usp=drivesdk
