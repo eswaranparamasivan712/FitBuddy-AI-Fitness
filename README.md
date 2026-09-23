@@ -1,4 +1,5 @@
-# FitBuddy - AI Fitness Plan Generator
+# MSEA TEAM
+ FitBuddy - AI Fitness Plan Generator
 
 A personalized AI-powered fitness and diet plan generator built using Google Gemini AI and Streamlit.
 
