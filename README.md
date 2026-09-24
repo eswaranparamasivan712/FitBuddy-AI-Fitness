@@ -20,4 +20,4 @@ A personalized AI-powered fitness and diet plan generator built using Google Gem
 ### Project Demo Video
 * [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1NP8wmOnVI-kA9kfZmaoix_ZYss03P6Ck/view?usp=drivesdk)
 ### Live App Link
-* [Open FitBuddy AI Web App](https://95fmz.streamlit.app)
+* [Open FitBuddy AI Web App](https://fitbuddy-ai-fitness-bkjyvchpwxzwezqya95fmz.streamlit.app/)
